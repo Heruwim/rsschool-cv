@@ -24,3 +24,8 @@ function sum(a, b) {
   return a + b;
 }
 ```
+____
+## Education
+- Donetsk National Technical University
+  + development of mineral deposits
+___
