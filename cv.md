@@ -6,7 +6,17 @@ ______
 * E-mail: heruwim25@gmail.com
 _____
 
+
 ## My goals
 ____
 _I want to study the __JS / Frontend Development__ сourse at __RSSchool__! And become a __Front-End developer!___
 ____
+
+
+## Skills
+____
++ HTML (base)
++ CSS (base)
++ Git (base)
+____
+
