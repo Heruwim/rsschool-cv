@@ -1,1 +1,12 @@
-#Pronin Artem
+# Pronin Artem
+## Contacts
+______
+* Location: Dobropillia, Ukraine
+* Phone: +380952205895
+* E-mail: heruwim25@gmail.com
+_____
+
+## My goals
+____
+_I want to study the __JS / Frontend Development__ сourse at __RSSchool__! And become a __Front-End developer!___
+____
