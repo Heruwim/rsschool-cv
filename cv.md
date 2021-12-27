@@ -29,3 +29,7 @@ ____
 - Donetsk National Technical University
   + development of mineral deposits
 ___
+
+
+## English
++ English - А2
