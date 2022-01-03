@@ -1,0 +1,84 @@
+	.wrapper{
+		margin: 0 auto;
+		max-width: 1200px;
+		border-width: 1px;
+		border-style: solid;
+		border-radius: 10px;
+		font-size: 18px;
+		background-color: beige;
+	}
+header{
+	max-height: 200px;
+	}
+.my_photo{
+	max-width: 200px;
+	margin-top: 2%;
+	margin-left: 5%;
+	border-radius: 20px;
+
+}
+h1{
+	margin-left: 5%;
+}
+.contacts{
+	margin-left: 5%;
+}
+.goals{
+	margin-left: 5%;
+}
+.italic{
+	font-style: italic;
+}
+.bold{
+	font-weight: 700;
+}
+.skills{
+	margin-left: 5%;
+}
+.code{
+	margin-left: 5%;
+}
+.education{
+	margin-left: 5%;
+}
+.english{
+	margin-left: 5%;
+}
+footer{
+	max-height: 55px;
+	background-color: bisque;
+	border-radius: 10px;
+	
+}
+.footer{
+	display: flex;
+	align-items: center;
+	justify-content:center;
+	align-items: center;
+	
+}
+.footer .item1{
+	margin: 0 auto;
+	justify-content:center;
+	align-items: center;
+}
+.footer .item2{
+	align-items: center;
+	justify-content:center;
+	margin: 0 auto;
+	font-size: 18px;
+	font-weight: 700;
+}
+.footer .item3{
+	align-items: center;
+	justify-content:center;
+	margin: 0 auto;
+}
+.my_git{
+	max-height: 50px;
+	border-radius: 15px;
+}
+.rslogo{
+	max-height: 50px;
+	border-radius: 5px;
+}
