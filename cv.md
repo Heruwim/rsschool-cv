@@ -10,3 +10,13 @@ _____
 ## My goals
 _I want to study the __JS / Frontend Development__ сourse at __RSSchool__! And become a __Front-End developer!___
 ____
+
+
+## Skills
++ HTML
++ CSS
++ Git (base)
++ JS (base)
++ C# (base)
++ Unity (base)
+____
