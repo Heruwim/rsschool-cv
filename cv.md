@@ -30,3 +30,13 @@ function numberToString(num) {
 }
 ```
 ____
+
+
+## Education
+- Donetsk National Technical University
+  + development of mineral deposits
+___
+
+
+## English
++ English - А2
