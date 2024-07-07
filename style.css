@@ -344,3 +344,13 @@ section {
 .no-marker-list {
     list-style: none;
 }
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer img {
+    width: 150px;
+}
