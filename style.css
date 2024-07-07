@@ -347,7 +347,7 @@ section {
 
 .code {
     background-color: #e4e2e2;
-    border-radius: 10px;
+    border-radius: 5px;
     padding: 20px;
 }
 
@@ -355,6 +355,9 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #dadbdd;
+    padding: 0 20px;
+    border-radius: 5px;
 }
 
 footer img {
