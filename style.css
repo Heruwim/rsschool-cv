@@ -216,3 +216,131 @@ td,
 th {
     padding: 0
 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    max-width: 1280px;
+    min-width: 360px;
+    margin: 0 auto;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 75px;
+}
+
+header img {
+    width: 85%;
+    border-radius: 50%;
+}
+
+.header-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.name {
+    font-size: 6.5em;
+    font-weight: 800;
+    margin: 0;
+
+}
+
+.speciality {
+    font-size: 3em;
+    margin: 0;
+
+
+}
+
+nav {
+    background-color: #c0c0c0;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 1.5em;
+    font-weight: 700;
+    padding-left: 0;
+    margin: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.hidden {
+    visibility: hidden;
+    font-size: 1px;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-wrapper {
+    max-width: 700px;
+}
+
+aside {
+    max-width: 500px;
+}
+
+ul{
+    line-height: 2;
+}
+
+#my-goals p{
+    line-height: 2;
+    padding: 20px 0;
+}
+
+.bold-bottom-border{
+    border-bottom: 5px #808184 solid;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+.contact-list {
+    list-style: none;
+}
+
+.contact-list li{
+    padding-left: 45px;
+    background: left center / 20px 20px no-repeat;
+    margin-bottom: 10px;
+}
+
+.contact-list .phone {
+    background-image: url(/rsschool-cv/images/phone-free-material-svgrepo-com.svg);
+}
+
+.contact-list .email {
+    background-image: url(/rsschool-cv/images/envelope-svgrepo-com.svg);
+}
+
+.contact-list .location {
+    background-image: url(/rsschool-cv/images/map-point-wave-svgrepo-com.svg);
+}
+
+.sub-text {
+    font-size: 0.9em;
+    padding-left: 30px;
+}
+
+.no-marker-list {
+    list-style: none;
+}
