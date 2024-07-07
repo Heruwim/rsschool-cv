@@ -345,6 +345,12 @@ section {
     list-style: none;
 }
 
+.code {
+    background-color: #e4e2e2;
+    border-radius: 10px;
+    padding: 20px;
+}
+
 footer {
     display: flex;
     justify-content: space-between;
